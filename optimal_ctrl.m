@@ -1,4 +1,4 @@
-function xdot = test(x)
+function xdot = optimal_ctrl(x)
 R1=0.1*eye(3,3);
 v=[0.0098,0.0098,0.0176];
 J=diag(v);
