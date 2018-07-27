@@ -1,5 +1,5 @@
 # Attitude-Optimal-Backstepping-Controller-Based-Quaternion-for-a-UAV
-Implementation of Attitude Optimal Backstepping Controller for UAV
+
 this Research Article is Copyright © 2016 Kaddouri Djamel et al. 
 This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, 
 distribution, and reproduction in any medium, provided the original work is properly cited.
